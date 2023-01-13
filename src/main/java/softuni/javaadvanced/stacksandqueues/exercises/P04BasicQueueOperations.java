@@ -1,4 +1,4 @@
-package softuni.javaadvanced.stacksandqueues.stacksandqueuesexercises;
+package softuni.javaadvanced.stacksandqueues.exercises;
 
 import java.util.*;
 

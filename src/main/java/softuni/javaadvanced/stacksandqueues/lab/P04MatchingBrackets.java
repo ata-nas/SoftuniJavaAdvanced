@@ -1,4 +1,4 @@
-package softuni.javaadvanced.stacksandqueues.stacksandqueueslab;
+package softuni.javaadvanced.stacksandqueues.lab;
 
 import java.util.*;
 
