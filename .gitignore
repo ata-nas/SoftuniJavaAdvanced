@@ -23,6 +23,8 @@
 hs_err_pid*
 
 /.idea
+/resources
+/src/main/java/softuni/javaadvanced/hidden
 Playground.java
 SoftuniJavaAdvanced.iml
 TODO.md
