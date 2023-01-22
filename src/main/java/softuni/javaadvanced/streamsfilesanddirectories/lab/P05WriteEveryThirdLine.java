@@ -18,7 +18,7 @@ public class P05WriteEveryThirdLine {
         while (line != null) {
             if (curRow % 3 == 0) {
                 printWriter.write(line);
-                printWriter.write(10);
+                printWriter.write(System.lineSeparator());
             }
             line = bufferedReader.readLine();
             curRow++;
